@@ -2,5 +2,6 @@ numpy
 pandas
 astropy
 astroquery
-lightkurve
 bokeh == 2.3.3
+ipywidgets
+lightkurve
