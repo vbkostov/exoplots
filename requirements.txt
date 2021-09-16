@@ -9,7 +9,7 @@ jupyter-client==6.1.12
 jupyter-server==1.11.0
 pyparsing==2.4.7
 PyQt5==5.12.3
-PyQt5_sip==4.19.18
+PyQt5_sip==12.7.0
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
 requests==2.26.0
