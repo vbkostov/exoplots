@@ -5,6 +5,7 @@ astroquery
 bokeh == 2.3.3
 ipywidgets
 lightkurve
+os
 scipy
 streamlit
 voila
